@@ -9,7 +9,7 @@
 
 # TODO:
 
-> Code working [X]
-> Add verbose option [ ]
-> Add option to compress files in batch [ ]
-> Create test script, with diff included [ ]
+- [X] Code working
+- [ ] Add verbose option
+- [ ] Add option to compress files in batch
+- [ ] Create test script, with diff included
